@@ -10,9 +10,8 @@ Requirements
 Python 3.x
 Pillow library (pip install Pillow)
 Usage
-Clone the repository: git clone https://github.com/meirazulaygit/Directory_Comparsion.git
-Navigate to the script directory: cd directory_comparsion
-Run the script: python script.py
+Clone the repository: git clone [https://github.com/meirazulaygit/Directory_Comparsion.git](https://github.com/meirazulaygit/directory_comp.git)
+Navigate to the script directory: cd /directory_comp
 Script Details
 differences_report_between_two_dir: Prints a report showing differences between two directories using the filecmp library.
 compare_image: Compares images using the Pillow library.
